@@ -1,4 +1,5 @@
 //Bismillahir Rahmanir Rahim//
+// for more https://github.com/Shamim-Nik/Tutorial/blob/master/Singly%20Linked%20List%20Using%20C%2B%2B.md
 #include <bits/stdc++.h>
 using namespace std;
 
