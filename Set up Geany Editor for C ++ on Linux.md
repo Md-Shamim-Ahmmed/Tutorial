@@ -1,7 +1,7 @@
 #### For competitive programming, I use Ubuntu (a popular free Linux distribution) dual booted alongside Windows. My favorite IDE is Geany and it's perfect for short codes in CP, but I don't recommend it for work and big projects. Here's setup instructions.
 
 1. Download Ubuntu from [Download Ubuntu](https://ubuntu.com/download) or Linuxmint from [Download linuxmint](https://linuxmint.com/download.php)
-2. Create a bootable USB with [universal usb installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) or [Rufus](https://rufus.ie) or or [iso to usb](https://iso-to-usb.en.softonic.com/?ex=NB-7.2) or any other software.
+2. Create a bootable USB with [universal usb installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) or [Rufus](https://rufus.ie) or [iso to usb](https://iso-to-usb.en.softonic.com/?ex=NB-7.2) or any other software.
 3. Install Ubuntu from your USB, preferably alongside the current OS (like Windows).
 4. Install Geany:
 ```
